@@ -1,1 +1,0 @@
-This is my project that will be using CSS and HTML.
